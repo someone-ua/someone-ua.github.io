@@ -1,0 +1,407 @@
+{
+  "norestfor": {
+    "name": "Хуёвая Луганда",
+    "screen_name": "norestfor",
+    "location": "Луганск, Украина"
+  },
+  "NewKakhovka": {
+    "name": "Хуёвая Новая Каховка",
+    "screen_name": "NewKakhovka",
+    "location": "Новая Каховка, Украина"
+  },
+  "ReggaeMortis1": {
+    "name": "Хуевая Уфа",
+    "screen_name": "ReggaeMortis1",
+    "location": "Россия, Башкортостан Републиц, Уфа"
+  },
+  "kirobagdad": {
+    "name": "Хуёвый Кировоград",
+    "screen_name": "kirobagdad",
+    "location": "Кировоград, Украина"
+  },
+  "VanyaKokarev": {
+    "name": "Хуйове Запоріжжя",
+    "screen_name": "VanyaKokarev",
+    "location": "Запорожье, Украина"
+  },
+  "Bloomabooma": {
+    "name": "Хуевый Иерусалим",
+    "screen_name": "Bloomabooma",
+    "location": "Иерусалим, Израиль"
+  },
+  "avatarovichn": {
+    "name": "Хуёвый Херсон",
+    "screen_name": "avatarovichn",
+    "location": "Херсон, Украина"
+  },
+  "ukrgorlovka": {
+    "name": "Хуёвая Горловка",
+    "screen_name": "ukrgorlovka",
+    "location": "Горловка, Украина"
+  },
+  "huyovii_lipetsk": {
+    "name": "Хуевый Липецк",
+    "screen_name": "huyovii_lipetsk",
+    "location": "Липецк, Россия"
+  },
+  "huevaya_udomlya": {
+    "name": "Хуёвая Удомля",
+    "screen_name": "huevaya_udomlya",
+    "location": "Россия, Тверская область, Удомля"
+  },
+  "barabanovichi": {
+    "name": "Хуёвые Барановичи",
+    "screen_name": "barabanovichi",
+    "location": "Барановичи, Брестская область, Беларусь"
+  },
+  "PolskaSotnja": {
+    "name": "Хуевая Варшава",
+    "screen_name": "PolskaSotnja",
+    "location": "Варшава, Польша"
+  },
+  "X_Luch": {
+    "name": "Хуе%вый Красный Луч",
+    "screen_name": "X_Luch",
+    "location": "Красный Луч, Луганская область, Украина"
+  },
+  "hueviy_nikolaev": {
+    "name": "Хуёвый Николаев",
+    "screen_name": "hueviy_nikolaev",
+    "location": "Николаев, Украина"
+  },
+  "crazynizhniy": {
+    "name": "Хуёвый Нижний",
+    "screen_name": "crazynizhniy",
+    "location": "Нижний Новгород, Россия"
+  },
+  "hlevakha": {
+    "name": "Хуёвая Глеваха",
+    "screen_name": "hlevakha",
+    "location": "Глеваха, Киевская область, Украина"
+  },
+  "fuck_spb": {
+    "name": "Хуёвый Питер™",
+    "screen_name": "fuck_spb",
+    "location": "Санкт-Петербург, Россия"
+  },
+  "hu_lviv": {
+    "name": "Хуйовий Львів",
+    "screen_name": "hu_lviv",
+    "location": "Львов, Украина"
+  },
+  "Hu_0dessa": {
+    "name": "Хуёвая Одесса",
+    "screen_name": "Hu_0dessa",
+    "location": "Одесса, Украина"
+  },
+  "m_crny": {
+    "name": "Хуёвый Антрацит",
+    "screen_name": "m_crny",
+    "location": "Антрацит, Луганская область, Украина"
+  },
+  "tombreadley": {
+    "name": "Хуёвый Київ",
+    "screen_name": "tombreadley",
+    "location": "Киев, Украина"
+  },
+  "Shok123": {
+    "name": "Хуёвый Минск",
+    "screen_name": "Shok123",
+    "location": "Минск, Беларусь"
+  },
+  "asagovsky": {
+    "name": "Хуевый Алчевск",
+    "screen_name": "asagovsky",
+    "location": "Алчевск, Луганская область, Украина"
+  },
+  "MYkin82": {
+    "name": "Хуёвая Борщага(Kiev)",
+    "screen_name": "MYkin82",
+    "location": "ул. Садовая, Киев, Украина"
+  },
+  "xyevii_kharkov": {
+    "name": "Хуёвый Харьков",
+    "screen_name": "xyevii_kharkov",
+    "location": "Харьков, Украина"
+  },
+  "htomyie": {
+    "name": "NeXyevyi London",
+    "screen_name": "htomyie",
+    "location": "Лондон, Великобритания"
+  },
+  "peoplelugansk": {
+    "name": "Хуевый Луганск",
+    "screen_name": "peoplelugansk",
+    "location": "Луганск, Украина"
+  },
+  "Hy_Donetsk": {
+    "name": "Хуёвый Донецк",
+    "screen_name": "Hy_Donetsk",
+    "location": "Донецк, Украина"
+  },
+  "hyevayamoskva": {
+    "name": "Хуевая Москва",
+    "screen_name": "hyevayamoskva",
+    "location": "Москва, Россия"
+  },
+  "CaLaChisinau": {
+    "name": "ХУевый Кишинев",
+    "screen_name": "CaLaChisinau",
+    "location": "Кишинев, Молдова"
+  },
+  "HujevijPiter": {
+    "name": "Хуевый Питер",
+    "screen_name": "HujevijPiter",
+    "location": "Санкт-Петербург, Россия"
+  },
+  "xyevii_nikolaev": {
+    "name": "Хуёвый Николаев",
+    "screen_name": "xyevii_nikolaev",
+    "location": "Николаев, Украина"
+  },
+  "ExileUA": {
+    "name": "Хуёвый Славянск",
+    "screen_name": "ExileUA",
+    "location": "Славянск, Донецкая область, Украина"
+  },
+  "starobelsk_ebat": {
+    "name": "Хуёвый Старобельск",
+    "screen_name": "starobelsk_ebat",
+    "location": "Старобельск, Луганская область, Украина"
+  },
+  "xyevii_dnepr": {
+    "name": "Хуёвый Днепр",
+    "screen_name": "xyevii_dnepr",
+    "location": "Днепропетровск, Украина"
+  },
+  "ohueniydnepr": {
+    "name": "Охуенный Днепр",
+    "screen_name": "ohueniydnepr",
+    "location": "Днепропетровск, Украина"
+  },
+  "fuckysebastopol": {
+    "name": "Хуёвый Севастополь",
+    "screen_name": "fuckysebastopol",
+    "location": "Севастополь, город Севастополь"
+  },
+  "hu_od": {
+    "name": "Хуевая Одесса",
+    "screen_name": "hu_od",
+    "location": "Одесса, Украина"
+  },
+  "hyeva_maryinka": {
+    "name": "Хуевая Марьинка",
+    "screen_name": "hyeva_maryinka",
+    "location": "Марьинка, Донецкая область, Украина"
+  },
+  "hu_bankova": {
+    "name": "Хуйова Банкова",
+    "screen_name": "hu_bankova",
+    "location": "ул. Банковая, Киев, Украина"
+  },
+  "xuevaya_bavaria": {
+    "name": "Хуевая Бавария",
+    "screen_name": "xuevaya_bavaria",
+    "location": "пр. Ильича, Харьков, Украина"
+  },
+  "Shikov90": {
+    "name": "Хуёвое Запорожье",
+    "screen_name": "Shikov90",
+    "location": "Запорожье, Украина"
+  },
+  "belaruski_front": {
+    "name": "Хранічэская Беларусь",
+    "screen_name": "belaruski_front",
+    "location": "Минск, Беларусь"
+  },
+  "fuck_lipetsk": {
+    "name": "Хуёвый Липецк",
+    "screen_name": "fuck_lipetsk",
+    "location": "Липецк, Россия"
+  },
+  "Bad_Makeevka": {
+    "name": "Хуевая Макеевка",
+    "screen_name": "Bad_Makeevka",
+    "location": "Макеевка, Донецкая область, Украина"
+  },
+  "persident_urk": {
+    "name": "Хуйовий Перзидент",
+    "screen_name": "persident_urk",
+    "location": "Киев, Украина"
+  },
+  "KorsarErgoProxy": {
+    "name": "Хуёвый Сектор",
+    "screen_name": "KorsarErgoProxy",
+    "location": "Харьков, Украина"
+  },
+  "LeadAirship": {
+    "name": "Нормальный Днепр",
+    "screen_name": "LeadAirship",
+    "location": "Днепропетровск, Украина"
+  },
+  "xu_roissia": {
+    "name": "Хуёвая Роиссия",
+    "screen_name": "xu_roissia",
+    "location": "Россия"
+  },
+  "Rover_ld": {
+    "name": "Хуёвый Каир",
+    "screen_name": "Rover_ld",
+    "location": "Каир, Эль-Кахира, Египет"
+  },
+  "borisov_Hu": {
+    "name": "Хуёвый Борисов",
+    "screen_name": "borisov_Hu",
+    "location": "Борисов, Минская область, Беларусь"
+  },
+  "ZhidoBandera": {
+    "name": "Хуёвый Washington DC",
+    "screen_name": "ZhidoBandera",
+    "location": "Washington, DC"
+  },
+  "orghomer": {
+    "name": "Хуевый Спрингфилд",
+    "screen_name": "orghomer",
+    "location": "Springfield, MO"
+  },
+  "velvetacidcat": {
+    "name": "Охуенный Стамбул",
+    "screen_name": "velvetacidcat",
+    "location": "Стамбул, Турция"
+  },
+  "kissmyspb": {
+    "name": "Хуёвый Питер",
+    "screen_name": "kissmyspb",
+    "location": "Санкт-Петербург, Россия"
+  },
+  "FAKELemberg": {
+    "name": "Хуёвый Львів",
+    "screen_name": "FAKELemberg",
+    "location": "Львов, Украина"
+  },
+  "fuck_borovichi": {
+    "name": "Хуёвые Боровичи",
+    "screen_name": "fuck_borovichi",
+    "location": "Боровичи, Сумская область, Украина"
+  },
+  "hyevyiberdichev": {
+    "name": "Хуёвый Бердичев",
+    "screen_name": "hyevyiberdichev",
+    "location": "Бердичев, Житомирская область, Украина"
+  },
+  "fuckkiev": {
+    "name": "Хуёвый Киев",
+    "screen_name": "fuckkiev",
+    "location": "Киев, Украина"
+  },
+  "xyevii_herson": {
+    "name": "Хуёвый Херсон",
+    "screen_name": "xyevii_herson",
+    "location": "Херсон, Украина"
+  },
+  "xSaratov": {
+    "name": "Хуёвый Саратов",
+    "screen_name": "xSaratov",
+    "location": "Саратов, Россия"
+  },
+  "mrCrimea": {
+    "name": "Йуховый крымчанин",
+    "screen_name": "mrCrimea",
+    "location": "Крым"
+  },
+  "Voiceofkonig": {
+    "name": "Хуёвый Кёнигсберг",
+    "screen_name": "Voiceofkonig",
+    "location": "Калининград, Россия, Калининградская область"
+  },
+  "h_kharkov": {
+    "name": "Хуевый Харьков",
+    "screen_name": "h_kharkov",
+    "location": "Харьков, Украина"
+  },
+  "xui_de": {
+    "name": "Хуёвая Германия",
+    "screen_name": "xui_de",
+    "location": "Германия"
+  },
+  "agap7180": {
+    "name": "#ХуёвыйКривбасс",
+    "screen_name": "agap7180",
+    "location": "Кривой Рог, Днепропетровская область, Украина"
+  },
+  "huvinnitsa": {
+    "name": "Хуёвая Винница",
+    "screen_name": "huvinnitsa",
+    "location": "Винница, Украина"
+  },
+  "IlliaMassive": {
+    "name": "Хуйовий Хмельницький",
+    "screen_name": "IlliaMassive",
+    "location": "Хмельницкий, Украина"
+  },
+  "lazebney_non": {
+    "name": "Херовый Киев",
+    "screen_name": "lazebney_non",
+    "location": "Троещина, Киев, город Киев, Украина"
+  },
+  "TZachem": {
+    "name": "Хуевый Благовещенск",
+    "screen_name": "TZachem",
+    "location": "Россия, Амурская область, Благовещенск"
+  },
+  "cheater_ua": {
+    "name": "Хуевое_настроение",
+    "screen_name": "cheater_ua",
+    "location": "Днепропетровск, Украина"
+  },
+  "huyovii_franik": {
+    "name": "ХуЙОвий Франківськ",
+    "screen_name": "huyovii_franik",
+    "location": "Ивано-Франковск, Украина"
+  },
+  "fuck_mak": {
+    "name": "Хуевая Макеевка",
+    "screen_name": "fuck_mak",
+    "location": "Макеевка, Донецкая область, Украина"
+  },
+  "niggaslife": {
+    "name": "ніхуйовий Мюнхен",
+    "screen_name": "niggaslife",
+    "location": "Мюнхен, Германия"
+  },
+  "hu_sverige": {
+    "name": "Хуевая Швеция",
+    "screen_name": "hu_sverige",
+    "location": "Швеция"
+  },
+  "konstutituta": {
+    "name": "Хуёвый Вильнюс",
+    "screen_name": "konstutituta",
+    "location": "Вильнюс, Литва"
+  },
+  "avacezar": {
+    "name": "Хуёвая Астрахань",
+    "screen_name": "avacezar",
+    "location": "Астрахань, Россия"
+  },
+  "Star0fCCTV": {
+    "name": "Хуёвый Владивосток",
+    "screen_name": "Star0fCCTV",
+    "location": "Россия, Владивосток"
+  },
+  "harmar7": {
+    "name": "Хуёвый Мариуполь",
+    "screen_name": "harmar7",
+    "location": "Мариуполь, Донецкая область, Украина"
+  },
+  "HuyovayaMoskva": {
+    "name": "Хуёвая Москва  ",
+    "screen_name": "HuyovayaMoskva",
+    "location": "Россия, Москва"
+  },
+  "tevan100": {
+    "name": "Хуёвый Дюссельдорф",
+    "screen_name": "tevan100",
+    "location": "Дюссельдорф, Германия"
+  }
+}
